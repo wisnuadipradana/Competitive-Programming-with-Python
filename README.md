@@ -1,4 +1,8 @@
 # Competitive Programming with Python
 
-HackerRank <img src="https://user-images.githubusercontent.com/49567907/195175536-ff853001-b907-48ba-8af7-2d3aa862cf03.png" style="max-width:100%;" href="https://www.hackerrank.com/dashboard"> </br>
-Toki Learning <a href="https://tlx.toki.id/" target="blank"><img src="https://img.shields.io/badge/Toki%20Learning-30302f?style=plastic" /></a>
+<a href="https://www.hackerrank.com/dashboard">
+  <img src="https://user-images.githubusercontent.com/49567907/195175536-ff853001-b907-48ba-8af7-2d3aa862cf03.png" width="27px"> </a>
+  <a href="https://linktr.ee/meongmeongproject">HackerRank</a> <br>
+<a href="https://tlx.toki.id/">
+  <img src="https://user-images.githubusercontent.com/49567907/195177940-9271a26b-dc8b-498b-ad54-8da1499e5334.png" width="20px" /></a> 
+  <a href="https://linktr.ee/meongmeongproject">Toki Learning</a>
