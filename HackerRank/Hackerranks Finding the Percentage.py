@@ -23,22 +23,3 @@ for nama in list(student_marks.keys()):
             total += x
 
 print(float(total/3)) 
-
-
-
-
-
-
-
-
-'''
-2
-Harsh 25 26.5 28
-Anurag 26 28 30
-
-
-
-dict = {"cat" : "chat", "dog" : "chien", "horse" : "cheval"}
-for key in dict.keys():
-    print(key, "->", dict[key]) 
-    '''
