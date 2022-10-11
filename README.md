@@ -5,4 +5,4 @@
   <a href="https://github.com/wisnuadipradana/competitive-programming-with-python/tree/main/HackerRank">HackerRank</a> <br>
 <a href="https://tlx.toki.id/">
   <img src="https://user-images.githubusercontent.com/49567907/195177940-9271a26b-dc8b-498b-ad54-8da1499e5334.png" width="20px" /></a> 
-  <a href="https://linktr.ee/meongmeongproject">Toki Learning</a>
+  <a href="https://github.com/wisnuadipradana/Competitive-Programming-with-Python/tree/main/Toki%20Learning">Toki Learning</a>
