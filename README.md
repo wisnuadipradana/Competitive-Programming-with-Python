@@ -1,4 +1,4 @@
-# Competitive Programming with Python
+# Excercise Programming skill with Python
 
 <a href="https://www.hackerrank.com/dashboard">
   <img src="https://user-images.githubusercontent.com/49567907/195175536-ff853001-b907-48ba-8af7-2d3aa862cf03.png" width="27px"> </a>
